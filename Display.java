@@ -39,7 +39,7 @@ public class Display
                 System.out.println("Select One of the following options:");
                 System.out.println("[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit");
             }
-            else if(!input.equalsIgnoreCase(""))
+            else
             {
                 System.out.println("Select One of the following options:");
                 System.out.println("[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit");
@@ -74,16 +74,26 @@ public class Display
                         {
                             cal.add(Calendar.DAY_OF_WEEK, -1);
                             cal.printDay();
+                            if(cal.hasEvent())
+                            {
+                                String date = cal.setDate();
+                                cal.printEventsByDay(date);
+                            }
                         }
                         else if(option.equalsIgnoreCase("N"))
                         {
                             cal.add(Calendar.DAY_OF_WEEK, 1);
                             cal.printDay();
+                            if(cal.hasEvent())
+                            {
+                                String date = cal.setDate();
+                                cal.printEventsByDay(date);
+                            }
                         }
-                        if(cal.hasEvent())
+                        else
                         {
-                            String date = cal.setDate();
-                            cal.printEventsByDay(date);
+                            System.out.println("Incorect Choice");
+                            option = "M";
                         }
                     }
                 }
@@ -92,7 +102,6 @@ public class Display
                     cal.printCalendar("M");
                     String option = "";
                     cal.printCalendar(input);
-                    int counter = 0;
                     while(!option.equalsIgnoreCase("M"))
                     {
                         System.out.println("[P]revious or [N]ext or [M]ain Menu ?");
@@ -103,17 +112,16 @@ public class Display
                             cal.add(Calendar.MONTH, -1);
                             cal.printCalendar("M");
                         }
-                        if(option.equalsIgnoreCase("N"))
+                        else if(option.equalsIgnoreCase("N"))
                         {
                             cal.add(Calendar.MONTH, 1);
                             cal.printCalendar("M");
                         }
                         else
                         {
-                            cal.add(Calendar.MONTH, 8);
-                            cal.printCalendar(input);
+                            System.out.println("Incorect Choice");
+                            option = "M";
                         }
-                        counter++;
                     }
                 }
                 else

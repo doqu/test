@@ -1,0 +1,933 @@
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     9     10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    [-11] 12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    [-11] 12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  10    [-11] 12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] 12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: 2015
+    Monday, March 9 10:30 - 11:45 CS151
+    Monday, March 9 13:30 - 14:45 MATH161
+    Monday, March 9 19:30 - 20:45 CS149
+    Tuesday, March 10 09:00 - 09:50 SE133
+    Tuesday, March 10 18:00 - 20:45 ISE164
+    Wednesday, March 11 10:30 - 11:45 CS151
+    Wednesday, March 11 13:30 - 14:45 MATH161
+    Wednesday, March 11 19:30 - 20:45 CS149
+    Thursday, March 12 09:00 - 09:50 SE133
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: [D]ay view or [M]onth view ?]
+Enter: Friday, March 13, 2015
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Incorect Choice
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: [D]ay view or [M]onth view ?]
+Enter: 
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+April 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+May 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    12    [13]  14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+June 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+July 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+June 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+July 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+August 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                                    1     
+2     3     4     5     6     7     8     
+9     10    11    12    [13]  14    15    
+16    17    18    19    20    21    22    
+23    24    25    26    27    28    29    
+30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+July 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+June 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+May 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    12    [13]  14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+June 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+July 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+August 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                                    1     
+2     3     4     5     6     7     8     
+9     10    11    12    [13]  14    15    
+16    17    18    19    20    21    22    
+23    24    25    26    27    28    29    
+30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+September 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+            1     2     3     4     5     
+6     7     8     9     10    11    12    
+[13]  14    15    16    17    18    19    
+20    21    22    23    24    25    26    
+27    28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+October 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                        1     2     3     
+4     5     6     7     8     9     10    
+11    12    [13]  14    15    16    17    
+18    19    20    21    22    23    24    
+25    26    27    28    29    30    31    
+
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+November 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     9     10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+December 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+            1     2     3     4     5     
+6     7     8     9     10    11    12    
+[13]  14    15    16    17    18    19    
+20    21    22    23    24    25    26    
+27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+January 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    12    [13]  14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+February 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+March 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+            1     2     3     4     5     
+6     7     8     9     10    11    12    
+[13]  14    15    16    17    18    19    
+20    21    22    23    24    25    26    
+27    28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+April 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    12    [13]  14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+May 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     9     10    11    12    [13]  14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+June 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+12    [13]  14    15    16    17    18    
+19    20    21    22    23    24    25    
+26    27    28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+July 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    12    [13]  14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+August 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Incorect Choice
+
+
+
+C A L E N D A R 
+August 2016 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+      1     2     3     4     5     6     
+7     8     9     10    11    12    [13]  
+14    15    16    17    18    19    20    
+21    22    23    24    25    26    27    
+28    29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Please enter the date to view (MM/DD/YYYY)
+Enter: Thursday, March 12, 2015
+SE133 09:00 - 09:50
+
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    23    24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    31    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: [D]ay view or [M]onth view ?]
+Enter: 
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [*12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+April 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+[12]  13    14    15    16    17    18    
+19    20    21    22    23    24    [-25] 
+26    27    28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+May 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                              1     2     
+3     4     5     6     7     8     9     
+10    11    [12]  13    14    15    16    
+17    18    19    20    21    22    23    
+24    25    26    27    28    29    30    
+31    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: 
+C A L E N D A R 
+April 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+[12]  13    14    15    16    17    18    
+19    20    21    22    23    24    [-25] 
+26    27    28    29    30    
+
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Incorect Choice
+
+
+
+C A L E N D A R 
+April 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+                  1     2     3     4     
+5     6     7     8     9     10    11    
+[12]  13    14    15    16    17    18    
+19    20    21    22    23    24    [-25] 
+26    27    28    29    30    
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Please enter the date to view (MM/DD/YYYY)
+Enter: Monday, March 9, 2015
+Three Year Anniversary 00:00 - 23:59
+CS151 10:30 - 11:45
+MATH161 13:30 - 14:45
+CS149 19:30 - 20:45
+
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: [D]ay view or [M]onth view ?]
+Enter: Monday, March 9, 2015
+Three Year Anniversary 00:00 - 23:59
+CS151 10:30 - 11:45
+MATH161 13:30 - 14:45
+CS149 19:30 - 20:45
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Tuesday, March 10, 2015
+SE133 09:00 - 09:50
+ISE164 18:00 - 20:45
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Wednesday, March 11, 2015
+CS151 10:30 - 11:45
+MATH161 13:30 - 14:45
+CS149 19:30 - 20:45
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Thursday, March 12, 2015
+SE133 09:00 - 09:50
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Friday, March 13, 2015
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Saturday, March 14, 2015
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Friday, March 13, 2015
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Thursday, March 12, 2015
+SE133 09:00 - 09:50
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Wednesday, March 11, 2015
+CS151 10:30 - 11:45
+MATH161 13:30 - 14:45
+CS149 19:30 - 20:45
+[P]revious or [N]ext or [M]ain Menu ?
+Enter: Incorect Choice
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: 2015
+    Monday, March 9 00:00 - 23:59 Three Year Anniversary
+    Monday, March 9 10:30 - 11:45 CS151
+    Monday, March 9 13:30 - 14:45 MATH161
+    Monday, March 9 19:30 - 20:45 CS149
+    Tuesday, March 10 09:00 - 09:50 SE133
+    Tuesday, March 10 18:00 - 20:45 ISE164
+    Wednesday, March 11 10:30 - 11:45 CS151
+    Wednesday, March 11 13:30 - 14:45 MATH161
+    Wednesday, March 11 19:30 - 20:45 CS149
+    Thursday, March 12 09:00 - 09:50 SE133
+    Monday, March 23 00:00 Spring Break Beings!
+    Wednesday, March 31 23:59 Spring Break Over...
+    Saturday, April 25 00:00 - 23:59 Pauline's Birthday
+    Thursday, June 18 00:00 My Birthday
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event already exist.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: 2015
+    Monday, March 9 00:00 - 23:59 Three Year Anniversary
+    Monday, March 9 10:30 - 11:45 CS151
+    Monday, March 9 13:30 - 14:45 MATH161
+    Monday, March 9 19:30 - 20:45 CS149
+    Tuesday, March 10 09:00 - 09:50 SE133
+    Tuesday, March 10 18:00 - 20:45 ISE164
+    Wednesday, March 11 10:30 - 11:45 CS151
+    Wednesday, March 11 13:30 - 14:45 MATH161
+    Wednesday, March 11 19:30 - 20:45 CS149
+    Thursday, March 12 09:00 - 09:50 SE133
+    Monday, March 23 00:00 Spring Break Beings!
+    Wednesday, March 31 23:59 Spring Break Over...
+    Saturday, April 25 00:00 - 23:59 Pauline's Birthday
+    Thursday, June 18 00:00 My Birthday
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: [S]elected Day or [A]ll ?
+Enter: Enter the date.
+
+Date (MM/DD/YYYY)Enter: The event has been removed.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Title
+Enter: Date MM/DD/YYYY
+Enter: Enter Starting Time and Ending Time (Optional)
+HH:MM - HH:MM
+Enter: The event has been added.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [*11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [-23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Please enter the date to view (MM/DD/YYYY)
+Enter: Saturday, April 25, 2015
+Pauline's Birthday 00:00 - 23:59
+
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Please enter the date to view (MM/DD/YYYY)
+Enter: Monday, March 9, 2015
+Three Year Anniversary 00:00 - 23:59
+CS151 10:30 - 11:45
+MATH161 13:30 - 14:45
+CS149 19:30 - 20:45
+
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: Please enter the date to view (MM/DD/YYYY)
+Enter: Monday, March 23, 2015
+Spring Break Beings! 00:00
+
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: File Could Not be Found.
+
+
+
+C A L E N D A R 
+March 2015 
+Sun   Mon   Tue   Wed   Thu   Fri   Sat   
+1     2     3     4     5     6     7     
+8     [-9]  [-10] [-11] [-12] 13    14    
+15    16    17    18    19    20    21    
+22    [*23] 24    25    26    27    28    
+29    30    [-31] 
+
+Select One of the following options:
+[L]oad [V]iew by [C]reate [G]o to [E]vent list [D]elete [Q]uit
+Enter: All events have been saved to events.txt.
+Have a Good Day!
+
+

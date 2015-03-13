@@ -110,7 +110,7 @@ public class Display
                         }
                         else
                         {
-                            cal.add(Calendar.MONTH, counter);
+                            cal.add(Calendar.MONTH, 8);
                             cal.printCalendar(input);
                         }
                         counter++;

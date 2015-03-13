@@ -89,14 +89,10 @@ public class Display
                 }
                 else if(view.equalsIgnoreCase("M"))
                 {
-<<<<<<< HEAD
                     cal.printCalendar("M");
                     String option = "";
-=======
                     cal.printCalendar(input);
-                    String option = "";
                     int counter = 0;
->>>>>>> 9d827fd139512c7651367a2c17e636ef8a185ed0
                     while(!option.equalsIgnoreCase("M"))
                     {
                         System.out.println("[P]revious or [N]ext or [M]ain Menu ?");
@@ -105,7 +101,6 @@ public class Display
                         if(option.equalsIgnoreCase("P"))
                         {
                             cal.add(Calendar.MONTH, -1);
-<<<<<<< HEAD
                             cal.printCalendar("M");
                         }
                         if(option.equalsIgnoreCase("N"))
@@ -113,21 +108,12 @@ public class Display
                             cal.add(Calendar.MONTH, 1);
                             cal.printCalendar("M");
                         }
-=======
-                            cal.printCalendar(input);
-                        }
-                        else if(option.equalsIgnoreCase("N"))
-                        {
-                            cal.add(Calendar.MONTH, 1);
-                            cal.printCalendar(input);
-                        }
                         else
                         {
                             cal.add(Calendar.MONTH, 8);
                             cal.printCalendar(input);
                         }
                         counter++;
->>>>>>> 9d827fd139512c7651367a2c17e636ef8a185ed0
                     }
                 }
                 else
